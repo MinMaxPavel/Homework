@@ -1,0 +1,7 @@
+C:\Programming\Homework\Homework\numbersFromOneToN\obj\Debug\numbersFromOneToN.csprojAssemblyReference.cache
+C:\Programming\Homework\Homework\numbersFromOneToN\obj\Debug\numbersFromOneToN.csproj.CoreCompileInputs.cache
+C:\Programming\Homework\Homework\numbersFromOneToN\bin\Debug\numbersFromOneToN.exe.config
+C:\Programming\Homework\Homework\numbersFromOneToN\bin\Debug\numbersFromOneToN.exe
+C:\Programming\Homework\Homework\numbersFromOneToN\bin\Debug\numbersFromOneToN.pdb
+C:\Programming\Homework\Homework\numbersFromOneToN\obj\Debug\numbersFromOneToN.exe
+C:\Programming\Homework\Homework\numbersFromOneToN\obj\Debug\numbersFromOneToN.pdb

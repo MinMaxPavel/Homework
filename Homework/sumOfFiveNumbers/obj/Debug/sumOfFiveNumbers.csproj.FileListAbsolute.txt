@@ -1,0 +1,7 @@
+C:\Programming\Homework\Homework\sumOfFiveNumbers\bin\Debug\sumOfFiveNumbers.exe.config
+C:\Programming\Homework\Homework\sumOfFiveNumbers\bin\Debug\sumOfFiveNumbers.exe
+C:\Programming\Homework\Homework\sumOfFiveNumbers\bin\Debug\sumOfFiveNumbers.pdb
+C:\Programming\Homework\Homework\sumOfFiveNumbers\obj\Debug\sumOfFiveNumbers.csprojAssemblyReference.cache
+C:\Programming\Homework\Homework\sumOfFiveNumbers\obj\Debug\sumOfFiveNumbers.csproj.CoreCompileInputs.cache
+C:\Programming\Homework\Homework\sumOfFiveNumbers\obj\Debug\sumOfFiveNumbers.exe
+C:\Programming\Homework\Homework\sumOfFiveNumbers\obj\Debug\sumOfFiveNumbers.pdb
