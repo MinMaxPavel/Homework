@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "numbersFromOneToN", "number
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sumOfFiveNumbers", "sumOfFiveNumbers\sumOfFiveNumbers.csproj", "{6B848432-6942-44F9-9BE3-2219491FD585}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "compareTwoNumbers", "compareTwoNumbers\compareTwoNumbers.csproj", "{D3BEA59B-8EFF-4B1F-910D-B7DE0B15EBDB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{6B848432-6942-44F9-9BE3-2219491FD585}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6B848432-6942-44F9-9BE3-2219491FD585}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6B848432-6942-44F9-9BE3-2219491FD585}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3BEA59B-8EFF-4B1F-910D-B7DE0B15EBDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3BEA59B-8EFF-4B1F-910D-B7DE0B15EBDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3BEA59B-8EFF-4B1F-910D-B7DE0B15EBDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3BEA59B-8EFF-4B1F-910D-B7DE0B15EBDB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

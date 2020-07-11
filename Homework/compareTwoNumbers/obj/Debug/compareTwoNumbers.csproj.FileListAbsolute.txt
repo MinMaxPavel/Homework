@@ -1,0 +1,7 @@
+C:\Programming\Homework\Homework\compareTwoNumbers\bin\Debug\compareTwoNumbers.exe.config
+C:\Programming\Homework\Homework\compareTwoNumbers\bin\Debug\compareTwoNumbers.exe
+C:\Programming\Homework\Homework\compareTwoNumbers\bin\Debug\compareTwoNumbers.pdb
+C:\Programming\Homework\Homework\compareTwoNumbers\obj\Debug\compareTwoNumbers.csprojAssemblyReference.cache
+C:\Programming\Homework\Homework\compareTwoNumbers\obj\Debug\compareTwoNumbers.csproj.CoreCompileInputs.cache
+C:\Programming\Homework\Homework\compareTwoNumbers\obj\Debug\compareTwoNumbers.exe
+C:\Programming\Homework\Homework\compareTwoNumbers\obj\Debug\compareTwoNumbers.pdb
