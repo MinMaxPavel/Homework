@@ -21,6 +21,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormatingNumbers", "Formati
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RandomNumbersInAGivenRange", "RandomNumbersInAGivenRange\RandomNumbersInAGivenRange.csproj", "{277B8466-91E7-4051-90EB-2E35FDCF55BD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThirdDigitIsSeven", "ThirdDigitIsSeven\ThirdDigitIsSeven.csproj", "{565B6C30-1E8C-471C-92A6-B18D9C922AC2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OddOrEvenIntegers", "OddOrEvenIntegers\OddOrEvenIntegers.csproj", "{36B2EFC2-6D00-4F3E-A87B-87A1BA80EEE2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +67,14 @@ Global
 		{277B8466-91E7-4051-90EB-2E35FDCF55BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{277B8466-91E7-4051-90EB-2E35FDCF55BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{277B8466-91E7-4051-90EB-2E35FDCF55BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{565B6C30-1E8C-471C-92A6-B18D9C922AC2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{565B6C30-1E8C-471C-92A6-B18D9C922AC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{565B6C30-1E8C-471C-92A6-B18D9C922AC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{565B6C30-1E8C-471C-92A6-B18D9C922AC2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36B2EFC2-6D00-4F3E-A87B-87A1BA80EEE2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36B2EFC2-6D00-4F3E-A87B-87A1BA80EEE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36B2EFC2-6D00-4F3E-A87B-87A1BA80EEE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36B2EFC2-6D00-4F3E-A87B-87A1BA80EEE2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
