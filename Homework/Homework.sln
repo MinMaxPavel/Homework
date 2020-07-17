@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OddOrEvenIntegers", "OddOrE
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PointInACircle", "PointInACircle\PointInACircle.csproj", "{1E797571-8A94-4775-A8EF-31FF73A95539}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CirclePerimeterArea", "CirclePerimeterArea\CirclePerimeterArea.csproj", "{8DB2B916-3847-4D50-B71C-736BE578687D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +83,10 @@ Global
 		{1E797571-8A94-4775-A8EF-31FF73A95539}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1E797571-8A94-4775-A8EF-31FF73A95539}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1E797571-8A94-4775-A8EF-31FF73A95539}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8DB2B916-3847-4D50-B71C-736BE578687D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DB2B916-3847-4D50-B71C-736BE578687D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DB2B916-3847-4D50-B71C-736BE578687D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DB2B916-3847-4D50-B71C-736BE578687D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
