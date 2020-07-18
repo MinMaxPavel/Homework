@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PointInACircle", "PointInAC
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CirclePerimeterArea", "CirclePerimeterArea\CirclePerimeterArea.csproj", "{8DB2B916-3847-4D50-B71C-736BE578687D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckBitAtGivenPosition", "CheckBitAtGivenPosition\CheckBitAtGivenPosition.csproj", "{8576E6B6-1C22-4283-8DDD-D223EBBF7B6D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{8DB2B916-3847-4D50-B71C-736BE578687D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8DB2B916-3847-4D50-B71C-736BE578687D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8DB2B916-3847-4D50-B71C-736BE578687D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8576E6B6-1C22-4283-8DDD-D223EBBF7B6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8576E6B6-1C22-4283-8DDD-D223EBBF7B6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8576E6B6-1C22-4283-8DDD-D223EBBF7B6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8576E6B6-1C22-4283-8DDD-D223EBBF7B6D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

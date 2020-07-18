@@ -1,0 +1,7 @@
+C:\Programming\Homework\Homework\CheckBitAtGivenPosition\bin\Debug\CheckBitAtGivenPosition.exe.config
+C:\Programming\Homework\Homework\CheckBitAtGivenPosition\bin\Debug\CheckBitAtGivenPosition.exe
+C:\Programming\Homework\Homework\CheckBitAtGivenPosition\bin\Debug\CheckBitAtGivenPosition.pdb
+C:\Programming\Homework\Homework\CheckBitAtGivenPosition\obj\Debug\CheckBitAtGivenPosition.csprojAssemblyReference.cache
+C:\Programming\Homework\Homework\CheckBitAtGivenPosition\obj\Debug\CheckBitAtGivenPosition.csproj.CoreCompileInputs.cache
+C:\Programming\Homework\Homework\CheckBitAtGivenPosition\obj\Debug\CheckBitAtGivenPosition.exe
+C:\Programming\Homework\Homework\CheckBitAtGivenPosition\obj\Debug\CheckBitAtGivenPosition.pdb
