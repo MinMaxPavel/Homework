@@ -31,6 +31,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CirclePerimeterArea", "Circ
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckBitAtGivenPosition", "CheckBitAtGivenPosition\CheckBitAtGivenPosition.csproj", "{8576E6B6-1C22-4283-8DDD-D223EBBF7B6D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuadraticEquasion", "QuadraticEquasion\QuadraticEquasion.csproj", "{45BA3E16-6534-42D0-87C0-662189374298}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -93,6 +95,10 @@ Global
 		{8576E6B6-1C22-4283-8DDD-D223EBBF7B6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8576E6B6-1C22-4283-8DDD-D223EBBF7B6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8576E6B6-1C22-4283-8DDD-D223EBBF7B6D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45BA3E16-6534-42D0-87C0-662189374298}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45BA3E16-6534-42D0-87C0-662189374298}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45BA3E16-6534-42D0-87C0-662189374298}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45BA3E16-6534-42D0-87C0-662189374298}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
