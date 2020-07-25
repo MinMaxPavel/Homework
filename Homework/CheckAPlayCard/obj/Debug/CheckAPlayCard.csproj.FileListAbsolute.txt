@@ -1,0 +1,7 @@
+C:\Programming\Homework\Homework\CheckAPlayCard\bin\Debug\CheckAPlayCard.exe.config
+C:\Programming\Homework\Homework\CheckAPlayCard\bin\Debug\CheckAPlayCard.exe
+C:\Programming\Homework\Homework\CheckAPlayCard\bin\Debug\CheckAPlayCard.pdb
+C:\Programming\Homework\Homework\CheckAPlayCard\obj\Debug\CheckAPlayCard.csprojAssemblyReference.cache
+C:\Programming\Homework\Homework\CheckAPlayCard\obj\Debug\CheckAPlayCard.csproj.CoreCompileInputs.cache
+C:\Programming\Homework\Homework\CheckAPlayCard\obj\Debug\CheckAPlayCard.exe
+C:\Programming\Homework\Homework\CheckAPlayCard\obj\Debug\CheckAPlayCard.pdb
