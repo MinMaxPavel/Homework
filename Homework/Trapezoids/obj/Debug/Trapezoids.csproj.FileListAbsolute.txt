@@ -1,0 +1,7 @@
+C:\Programming\Homework\Homework\Trapezoids\bin\Debug\Trapezoids.exe.config
+C:\Programming\Homework\Homework\Trapezoids\bin\Debug\Trapezoids.exe
+C:\Programming\Homework\Homework\Trapezoids\bin\Debug\Trapezoids.pdb
+C:\Programming\Homework\Homework\Trapezoids\obj\Debug\Trapezoids.csprojAssemblyReference.cache
+C:\Programming\Homework\Homework\Trapezoids\obj\Debug\Trapezoids.csproj.CoreCompileInputs.cache
+C:\Programming\Homework\Homework\Trapezoids\obj\Debug\Trapezoids.exe
+C:\Programming\Homework\Homework\Trapezoids\obj\Debug\Trapezoids.pdb

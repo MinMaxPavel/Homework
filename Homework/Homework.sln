@@ -35,6 +35,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuadraticEquasion", "Quadra
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckAPlayCard", "CheckAPlayCard\CheckAPlayCard.csproj", "{7EA0EF0D-42D9-450A-9AD8-BBB747D5F372}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Trapezoids", "Trapezoids\Trapezoids.csproj", "{08113A4A-02B4-452C-9818-3109DCFBC30C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -105,6 +107,10 @@ Global
 		{7EA0EF0D-42D9-450A-9AD8-BBB747D5F372}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7EA0EF0D-42D9-450A-9AD8-BBB747D5F372}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7EA0EF0D-42D9-450A-9AD8-BBB747D5F372}.Release|Any CPU.Build.0 = Release|Any CPU
+		{08113A4A-02B4-452C-9818-3109DCFBC30C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08113A4A-02B4-452C-9818-3109DCFBC30C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08113A4A-02B4-452C-9818-3109DCFBC30C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08113A4A-02B4-452C-9818-3109DCFBC30C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
