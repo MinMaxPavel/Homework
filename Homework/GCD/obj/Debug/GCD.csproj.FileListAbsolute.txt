@@ -1,0 +1,7 @@
+C:\Programming\Homework\Homework\GCD\bin\Debug\GCD.exe.config
+C:\Programming\Homework\Homework\GCD\bin\Debug\GCD.exe
+C:\Programming\Homework\Homework\GCD\bin\Debug\GCD.pdb
+C:\Programming\Homework\Homework\GCD\obj\Debug\GCD.csprojAssemblyReference.cache
+C:\Programming\Homework\Homework\GCD\obj\Debug\GCD.csproj.CoreCompileInputs.cache
+C:\Programming\Homework\Homework\GCD\obj\Debug\GCD.exe
+C:\Programming\Homework\Homework\GCD\obj\Debug\GCD.pdb

@@ -37,6 +37,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckAPlayCard", "CheckAPla
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Trapezoids", "Trapezoids\Trapezoids.csproj", "{08113A4A-02B4-452C-9818-3109DCFBC30C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GCD", "GCD\GCD.csproj", "{1C5ABB99-31F9-4C88-8BAD-09EADC5FCC77}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -111,6 +113,10 @@ Global
 		{08113A4A-02B4-452C-9818-3109DCFBC30C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{08113A4A-02B4-452C-9818-3109DCFBC30C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{08113A4A-02B4-452C-9818-3109DCFBC30C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C5ABB99-31F9-4C88-8BAD-09EADC5FCC77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C5ABB99-31F9-4C88-8BAD-09EADC5FCC77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C5ABB99-31F9-4C88-8BAD-09EADC5FCC77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C5ABB99-31F9-4C88-8BAD-09EADC5FCC77}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
