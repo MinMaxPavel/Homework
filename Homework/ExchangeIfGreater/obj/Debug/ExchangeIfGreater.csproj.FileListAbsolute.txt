@@ -1,0 +1,7 @@
+C:\Programming\Homework\Homework\ExchangeIfGreater\bin\Debug\ExchangeIfGreater.exe.config
+C:\Programming\Homework\Homework\ExchangeIfGreater\bin\Debug\ExchangeIfGreater.exe
+C:\Programming\Homework\Homework\ExchangeIfGreater\bin\Debug\ExchangeIfGreater.pdb
+C:\Programming\Homework\Homework\ExchangeIfGreater\obj\Debug\ExchangeIfGreater.csprojAssemblyReference.cache
+C:\Programming\Homework\Homework\ExchangeIfGreater\obj\Debug\ExchangeIfGreater.csproj.CoreCompileInputs.cache
+C:\Programming\Homework\Homework\ExchangeIfGreater\obj\Debug\ExchangeIfGreater.exe
+C:\Programming\Homework\Homework\ExchangeIfGreater\obj\Debug\ExchangeIfGreater.pdb
