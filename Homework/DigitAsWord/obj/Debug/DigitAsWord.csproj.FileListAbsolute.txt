@@ -1,0 +1,7 @@
+C:\Programming\Homework\Homework\DigitAsWord\bin\Debug\DigitAsWord.exe.config
+C:\Programming\Homework\Homework\DigitAsWord\bin\Debug\DigitAsWord.exe
+C:\Programming\Homework\Homework\DigitAsWord\bin\Debug\DigitAsWord.pdb
+C:\Programming\Homework\Homework\DigitAsWord\obj\Debug\DigitAsWord.csprojAssemblyReference.cache
+C:\Programming\Homework\Homework\DigitAsWord\obj\Debug\DigitAsWord.csproj.CoreCompileInputs.cache
+C:\Programming\Homework\Homework\DigitAsWord\obj\Debug\DigitAsWord.exe
+C:\Programming\Homework\Homework\DigitAsWord\obj\Debug\DigitAsWord.pdb
