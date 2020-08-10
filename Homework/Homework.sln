@@ -43,6 +43,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExchangeIfGreater", "Exchan
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DigitAsWord", "DigitAsWord\DigitAsWord.csproj", "{9E7240C6-CC3E-4221-A401-956F3A7B2EEA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZeroSubset", "ZeroSubset\ZeroSubset.csproj", "{FF5FD195-9527-4F36-A6D8-83BB42F38832}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -129,6 +131,10 @@ Global
 		{9E7240C6-CC3E-4221-A401-956F3A7B2EEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9E7240C6-CC3E-4221-A401-956F3A7B2EEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9E7240C6-CC3E-4221-A401-956F3A7B2EEA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF5FD195-9527-4F36-A6D8-83BB42F38832}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF5FD195-9527-4F36-A6D8-83BB42F38832}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF5FD195-9527-4F36-A6D8-83BB42F38832}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF5FD195-9527-4F36-A6D8-83BB42F38832}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

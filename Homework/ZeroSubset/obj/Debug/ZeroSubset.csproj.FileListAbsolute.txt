@@ -1,0 +1,7 @@
+C:\Programming\Homework\Homework\ZeroSubset\obj\Debug\ZeroSubset.csprojAssemblyReference.cache
+C:\Programming\Homework\Homework\ZeroSubset\obj\Debug\ZeroSubset.csproj.CoreCompileInputs.cache
+C:\Programming\Homework\Homework\ZeroSubset\bin\Debug\ZeroSubset.exe.config
+C:\Programming\Homework\Homework\ZeroSubset\bin\Debug\ZeroSubset.exe
+C:\Programming\Homework\Homework\ZeroSubset\bin\Debug\ZeroSubset.pdb
+C:\Programming\Homework\Homework\ZeroSubset\obj\Debug\ZeroSubset.exe
+C:\Programming\Homework\Homework\ZeroSubset\obj\Debug\ZeroSubset.pdb
