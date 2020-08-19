@@ -1,0 +1,7 @@
+C:\Programming\Homework\Homework\ThreeSixNine\bin\Debug\ThreeSixNine.exe.config
+C:\Programming\Homework\Homework\ThreeSixNine\bin\Debug\ThreeSixNine.exe
+C:\Programming\Homework\Homework\ThreeSixNine\bin\Debug\ThreeSixNine.pdb
+C:\Programming\Homework\Homework\ThreeSixNine\obj\Debug\ThreeSixNine.csprojAssemblyReference.cache
+C:\Programming\Homework\Homework\ThreeSixNine\obj\Debug\ThreeSixNine.csproj.CoreCompileInputs.cache
+C:\Programming\Homework\Homework\ThreeSixNine\obj\Debug\ThreeSixNine.exe
+C:\Programming\Homework\Homework\ThreeSixNine\obj\Debug\ThreeSixNine.pdb

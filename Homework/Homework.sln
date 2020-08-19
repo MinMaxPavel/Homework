@@ -45,6 +45,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DigitAsWord", "DigitAsWord\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZeroSubset", "ZeroSubset\ZeroSubset.csproj", "{FF5FD195-9527-4F36-A6D8-83BB42F38832}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThreeSixNine", "ThreeSixNine\ThreeSixNine.csproj", "{78DD45D9-1EB0-4E49-976B-A0683DA72292}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -135,6 +137,10 @@ Global
 		{FF5FD195-9527-4F36-A6D8-83BB42F38832}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FF5FD195-9527-4F36-A6D8-83BB42F38832}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FF5FD195-9527-4F36-A6D8-83BB42F38832}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78DD45D9-1EB0-4E49-976B-A0683DA72292}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78DD45D9-1EB0-4E49-976B-A0683DA72292}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78DD45D9-1EB0-4E49-976B-A0683DA72292}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78DD45D9-1EB0-4E49-976B-A0683DA72292}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
