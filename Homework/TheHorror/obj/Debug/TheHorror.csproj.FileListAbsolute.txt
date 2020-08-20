@@ -1,0 +1,7 @@
+C:\Programming\Homework\Homework\TheHorror\bin\Debug\TheHorror.exe.config
+C:\Programming\Homework\Homework\TheHorror\bin\Debug\TheHorror.exe
+C:\Programming\Homework\Homework\TheHorror\bin\Debug\TheHorror.pdb
+C:\Programming\Homework\Homework\TheHorror\obj\Debug\TheHorror.csprojAssemblyReference.cache
+C:\Programming\Homework\Homework\TheHorror\obj\Debug\TheHorror.csproj.CoreCompileInputs.cache
+C:\Programming\Homework\Homework\TheHorror\obj\Debug\TheHorror.exe
+C:\Programming\Homework\Homework\TheHorror\obj\Debug\TheHorror.pdb
