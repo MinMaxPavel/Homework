@@ -1,0 +1,7 @@
+C:\Programming\Homework\Homework\BitwiseExactBit\bin\Debug\BitwiseExactBit.exe.config
+C:\Programming\Homework\Homework\BitwiseExactBit\bin\Debug\BitwiseExactBit.exe
+C:\Programming\Homework\Homework\BitwiseExactBit\bin\Debug\BitwiseExactBit.pdb
+C:\Programming\Homework\Homework\BitwiseExactBit\obj\Debug\BitwiseExactBit.csprojAssemblyReference.cache
+C:\Programming\Homework\Homework\BitwiseExactBit\obj\Debug\BitwiseExactBit.csproj.CoreCompileInputs.cache
+C:\Programming\Homework\Homework\BitwiseExactBit\obj\Debug\BitwiseExactBit.exe
+C:\Programming\Homework\Homework\BitwiseExactBit\obj\Debug\BitwiseExactBit.pdb
