@@ -1,0 +1,7 @@
+C:\Programming\Homework\Homework\CoffeeMachine\obj\Debug\CoffeeMachine.csprojAssemblyReference.cache
+C:\Programming\Homework\Homework\CoffeeMachine\obj\Debug\CoffeeMachine.csproj.CoreCompileInputs.cache
+C:\Programming\Homework\Homework\CoffeeMachine\bin\Debug\CoffeeMachine.exe.config
+C:\Programming\Homework\Homework\CoffeeMachine\bin\Debug\CoffeeMachine.exe
+C:\Programming\Homework\Homework\CoffeeMachine\bin\Debug\CoffeeMachine.pdb
+C:\Programming\Homework\Homework\CoffeeMachine\obj\Debug\CoffeeMachine.exe
+C:\Programming\Homework\Homework\CoffeeMachine\obj\Debug\CoffeeMachine.pdb

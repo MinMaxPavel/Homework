@@ -51,6 +51,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheHorror", "TheHorror\TheH
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BitwiseExactBit", "BitwiseExactBit\BitwiseExactBit.csproj", "{965D8C8A-B67A-43B7-989D-6C02E6BA6485}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoffeeMachine", "CoffeeMachine\CoffeeMachine.csproj", "{CCE048A0-48CE-48E7-B595-B32ABAE71DD4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -153,6 +155,10 @@ Global
 		{965D8C8A-B67A-43B7-989D-6C02E6BA6485}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{965D8C8A-B67A-43B7-989D-6C02E6BA6485}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{965D8C8A-B67A-43B7-989D-6C02E6BA6485}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CCE048A0-48CE-48E7-B595-B32ABAE71DD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCE048A0-48CE-48E7-B595-B32ABAE71DD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCE048A0-48CE-48E7-B595-B32ABAE71DD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCE048A0-48CE-48E7-B595-B32ABAE71DD4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
