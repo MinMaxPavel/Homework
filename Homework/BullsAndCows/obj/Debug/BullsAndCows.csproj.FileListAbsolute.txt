@@ -1,0 +1,7 @@
+C:\Programming\Homework\Homework\BullsAndCows\obj\Debug\BullsAndCows.csprojAssemblyReference.cache
+C:\Programming\Homework\Homework\BullsAndCows\obj\Debug\BullsAndCows.csproj.CoreCompileInputs.cache
+C:\Programming\Homework\Homework\BullsAndCows\bin\Debug\BullsAndCows.exe.config
+C:\Programming\Homework\Homework\BullsAndCows\bin\Debug\BullsAndCows.exe
+C:\Programming\Homework\Homework\BullsAndCows\bin\Debug\BullsAndCows.pdb
+C:\Programming\Homework\Homework\BullsAndCows\obj\Debug\BullsAndCows.exe
+C:\Programming\Homework\Homework\BullsAndCows\obj\Debug\BullsAndCows.pdb
