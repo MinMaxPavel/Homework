@@ -1,0 +1,7 @@
+C:\Programming\Homework\Homework\DrunkenNumbers\bin\Debug\DrunkenNumbers.exe.config
+C:\Programming\Homework\Homework\DrunkenNumbers\bin\Debug\DrunkenNumbers.exe
+C:\Programming\Homework\Homework\DrunkenNumbers\bin\Debug\DrunkenNumbers.pdb
+C:\Programming\Homework\Homework\DrunkenNumbers\obj\Debug\DrunkenNumbers.csprojAssemblyReference.cache
+C:\Programming\Homework\Homework\DrunkenNumbers\obj\Debug\DrunkenNumbers.csproj.CoreCompileInputs.cache
+C:\Programming\Homework\Homework\DrunkenNumbers\obj\Debug\DrunkenNumbers.exe
+C:\Programming\Homework\Homework\DrunkenNumbers\obj\Debug\DrunkenNumbers.pdb
