@@ -1,0 +1,7 @@
+C:\Programming\Homework\Homework\Fire\bin\Debug\Fire.exe.config
+C:\Programming\Homework\Homework\Fire\bin\Debug\Fire.exe
+C:\Programming\Homework\Homework\Fire\bin\Debug\Fire.pdb
+C:\Programming\Homework\Homework\Fire\obj\Debug\Fire.csprojAssemblyReference.cache
+C:\Programming\Homework\Homework\Fire\obj\Debug\Fire.csproj.CoreCompileInputs.cache
+C:\Programming\Homework\Homework\Fire\obj\Debug\Fire.exe
+C:\Programming\Homework\Homework\Fire\obj\Debug\Fire.pdb
